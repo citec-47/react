@@ -1,3 +1,1 @@
-# React app starter project (from scratch)
-
-A lightweight starter project without using the create-react-app CLI
+# React Context API: managing application state

@@ -53,7 +53,7 @@ HTML, CSS and JavaScript Awesome Books Project
 Coming soon!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-Click <a href="http://localhost:5173/"> here</a> for the live demo
+[COMING SOON]
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
